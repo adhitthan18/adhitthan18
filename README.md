@@ -1,4 +1,4 @@
-### Hi, I'm Adhi
+### Hi, I'm Adhitthana
 
 I build connected systems end to end: **ESP32 firmware, Go backends, web dashboards, and the servers and pipelines they run on.** I run [Adhi Teknologi](https://adhiteknologi.com), a small engineering company in Indonesia that delivers websites, IoT monitoring and control, and POS systems.
 
